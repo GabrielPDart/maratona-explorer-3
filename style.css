@@ -81,3 +81,11 @@
     font-size: 14px;
     line-height: 21px;
   }
+
+  footer{
+    text-align: center;
+    font-weight: 500;
+    font-size: 12px;
+    opacity: 0.6;
+    
+  }
